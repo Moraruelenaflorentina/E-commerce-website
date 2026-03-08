@@ -39,7 +39,6 @@ Install dependencies: npm install
 Start the development server:
     npm run dev
 The store will be available at http://localhost:5173
-
     3. Admin Panel Setup (The Control Room)
 
 This allows you to add products and manage orders.
