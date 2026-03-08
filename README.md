@@ -2,6 +2,11 @@
 
 HouseOfHype is a modern, high-performance e-commerce solution built with the MERN stack. This project demonstrates an end-to-end integration of a responsive client storefront, a robust backend API, and a dedicated administrative control panel.
 
+**Development Team**
+•	Backend: Moraru Adriana + Moraru Florentina
+•	Frontend: Moraru Adriana + Moraru Florentina
+•	Admin: Moraru Adriana + Moraru Florentina + Ioniță Cristiana
+
 **System Architecture**
 
 As an Automation Engineering project, this platform is designed as a closed-loop system where data flows seamlessly between the user interface and the database.
@@ -39,6 +44,7 @@ Install dependencies: npm install
 Start the development server:
     npm run dev
 The store will be available at http://localhost:5173
+
     3. Admin Panel Setup (The Control Room)
 
 This allows you to add products and manage orders.
