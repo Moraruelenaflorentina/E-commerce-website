@@ -5,9 +5,10 @@ The project demonstrates a complete end-to-end architecture including a responsi
 
 👥 Development Team
 Role	Contributors
-Backend Development	Moraru Adriana • Moraru Florentina
-Frontend Development	Moraru Adriana • Moraru Florentina
-Admin Dashboard	Moraru Adriana • Moraru Florentina • Ioniță Cristiana
+Backend Development:	Moraru Adriana • Moraru Florentina,
+Frontend Development:	Moraru Adriana • Moraru Florentina,
+Admin Dashboard:	Moraru Adriana • Moraru Florentina • Ioniță Cristiana.
+
 🧠 System Architecture
 
 As an Automation Engineering project, HouseOfHype follows a closed-loop architecture, where data flows continuously between the user interface, server logic, and database layer.
