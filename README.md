@@ -15,6 +15,7 @@ As an Automation Engineering project, this platform is designed as a closed-loop
    5.Responsive Design: Fully adapted for both desktop and mobile devices to ensure a consistent experience across all hardware.
  **Installation & Setup**
  1. Backend Setup
+    
     cd backend
 npm install
 # Configure your .env file with MONGODB_URI and CLOUDINARY keys
@@ -23,6 +24,7 @@ npm run server # Runs on port 4000
 http://googleusercontent.com/immersive_entry_chip/0
 http://googleusercontent.com/immersive_entry_chip/1
 http://googleusercontent.com/immersive_entry_chip/2
+
 npm run server
 
  2. Frontend setup
